@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|D:\\LapTrinhDesktop\\QuanLySinhVienDB\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|d:\\laptrinhdesktop\\quanlysinhviendb\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|D:\\LapTrinhDesktop\\QuanLySinhVienDB\\dal\\implementation\\nganhdaotaodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|solutionrelative:dal\\implementation\\nganhdaotaodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|D:\\LapTrinhDesktop\\QuanLySinhVienDB\\models\\nganhdaotao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|solutionrelative:models\\nganhdaotao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|D:\\LapTrinhDesktop\\QuanLySinhVienDB\\gui\\form_nganhdaotao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|solutionrelative:gui\\form_nganhdaotao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|D:\\LapTrinhDesktop\\QuanLySinhVienDB\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|solutionrelative:models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|D:\\LapTrinhDesktop\\QuanLySinhVienDB\\dal\\service\\inganhdaotao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|solutionrelative:dal\\service\\inganhdaotao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|D:\\LapTrinhDesktop\\QuanLySinhVienDB\\dal\\implementation\\sinhviendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|solutionrelative:dal\\implementation\\sinhviendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|D:\\LapTrinhDesktop\\QuanLySinhVienDB\\gui\\form_nganhdaotao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|solutionrelative:gui\\form_nganhdaotao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|D:\\LapTrinhDesktop\\QuanLySinhVienDB\\gui\\form_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|solutionrelative:gui\\form_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|D:\\LapTrinhDesktop\\QuanLySinhVienDB\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|D:\\LapTrinhDesktop\\QuanLySinhVienDB\\dal\\service\\isinhviendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|solutionrelative:dal\\service\\isinhviendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|D:\\LapTrinhDesktop\\QuanLySinhVienDB\\gui\\form_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|solutionrelative:gui\\form_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|D:\\LapTrinhDesktop\\QuanLySinhVienDB\\dal\\implementation\\dbutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|solutionrelative:dal\\implementation\\dbutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|D:\\LapTrinhDesktop\\QuanLySinhVienDB\\gui\\form_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|solutionrelative:gui\\form_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|D:\\LapTrinhDesktop\\QuanLySinhVienDB\\gui\\form_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91B93A9-FC8C-4872-9777-9D3EF8EFE9FD}|QuanLySinhVienDB.csproj|solutionrelative:gui\\form_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1220,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NganhDaoTaoDAO.cs",
+              "DocumentMoniker": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\DAL\\Implementation\\NganhDaoTaoDAO.cs",
+              "RelativeDocumentMoniker": "DAL\\Implementation\\NganhDaoTaoDAO.cs",
+              "ToolTip": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\DAL\\Implementation\\NganhDaoTaoDAO.cs",
+              "RelativeToolTip": "DAL\\Implementation\\NganhDaoTaoDAO.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBgAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:02:49.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "INganhDaoTao.cs",
+              "DocumentMoniker": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\DAL\\Service\\INganhDaoTao.cs",
+              "RelativeDocumentMoniker": "DAL\\Service\\INganhDaoTao.cs",
+              "ToolTip": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\DAL\\Service\\INganhDaoTao.cs",
+              "RelativeToolTip": "DAL\\Service\\INganhDaoTao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:01:21.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form_NganhDaoTao.cs",
+              "DocumentMoniker": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\Gui\\Form_NganhDaoTao.cs",
+              "RelativeDocumentMoniker": "Gui\\Form_NganhDaoTao.cs",
+              "ToolTip": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\Gui\\Form_NganhDaoTao.cs",
+              "RelativeToolTip": "Gui\\Form_NganhDaoTao.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:57:35.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form_NganhDaoTao.cs [Design]",
+              "DocumentMoniker": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\Gui\\Form_NganhDaoTao.cs",
+              "RelativeDocumentMoniker": "Gui\\Form_NganhDaoTao.cs",
+              "ToolTip": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\Gui\\Form_NganhDaoTao.cs [Design]",
+              "RelativeToolTip": "Gui\\Form_NganhDaoTao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:53:59.444Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DBUtils.cs",
+              "DocumentMoniker": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\DAL\\Implementation\\DBUtils.cs",
+              "RelativeDocumentMoniker": "DAL\\Implementation\\DBUtils.cs",
+              "ToolTip": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\DAL\\Implementation\\DBUtils.cs",
+              "RelativeToolTip": "DAL\\Implementation\\DBUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:38:39.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NganhDaoTao.cs",
+              "DocumentMoniker": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\Models\\NganhDaoTao.cs",
+              "RelativeDocumentMoniker": "Models\\NganhDaoTao.cs",
+              "ToolTip": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\Models\\NganhDaoTao.cs",
+              "RelativeToolTip": "Models\\NganhDaoTao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:44:15.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form_Update.cs",
+              "DocumentMoniker": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\Gui\\Form_Update.cs",
+              "RelativeDocumentMoniker": "Gui\\Form_Update.cs",
+              "ToolTip": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\Gui\\Form_Update.cs",
+              "RelativeToolTip": "Gui\\Form_Update.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwCgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:38:52.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form_Update.cs [Design]",
+              "DocumentMoniker": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\Gui\\Form_Update.cs",
+              "RelativeDocumentMoniker": "Gui\\Form_Update.cs",
+              "ToolTip": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\Gui\\Form_Update.cs [Design]",
+              "RelativeToolTip": "Gui\\Form_Update.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:33:46.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form_Add.cs",
+              "DocumentMoniker": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\Gui\\Form_Add.cs",
+              "RelativeDocumentMoniker": "Gui\\Form_Add.cs",
+              "ToolTip": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\Gui\\Form_Add.cs",
+              "RelativeToolTip": "Gui\\Form_Add.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAADcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:35:21.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form_Add.cs [Design]",
+              "DocumentMoniker": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\Gui\\Form_Add.cs",
+              "RelativeDocumentMoniker": "Gui\\Form_Add.cs",
+              "ToolTip": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\Gui\\Form_Add.cs [Design]",
+              "RelativeToolTip": "Gui\\Form_Add.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:33:00.788Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\Gui\\Program.cs",
+              "RelativeDocumentMoniker": "Gui\\Program.cs",
+              "ToolTip": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\Gui\\Program.cs",
+              "RelativeToolTip": "Gui\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:20:08.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SinhVienDAO.cs",
+              "DocumentMoniker": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\DAL\\Implementation\\SinhVienDAO.cs",
+              "RelativeDocumentMoniker": "DAL\\Implementation\\SinhVienDAO.cs",
+              "ToolTip": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\DAL\\Implementation\\SinhVienDAO.cs",
+              "RelativeToolTip": "DAL\\Implementation\\SinhVienDAO.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowBQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:48:07.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISinhVienDAO.cs",
+              "DocumentMoniker": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\DAL\\Service\\ISinhVienDAO.cs",
+              "RelativeDocumentMoniker": "DAL\\Service\\ISinhVienDAO.cs",
+              "ToolTip": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\DAL\\Service\\ISinhVienDAO.cs",
+              "RelativeToolTip": "DAL\\Service\\ISinhVienDAO.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAawA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:45:13.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\Gui\\Form1.cs",
+              "RelativeDocumentMoniker": "Gui\\Form1.cs",
+              "ToolTip": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\Gui\\Form1.cs",
+              "RelativeToolTip": "Gui\\Form1.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAwwIEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:16:47.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\Models\\SinhVien.cs",
+              "RelativeDocumentMoniker": "Models\\SinhVien.cs",
+              "ToolTip": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\Models\\SinhVien.cs",
+              "RelativeToolTip": "Models\\SinhVien.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:12:07.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\Gui\\Form1.cs",
+              "RelativeDocumentMoniker": "Gui\\Form1.cs",
+              "ToolTip": "D:\\LapTrinhDesktop\\QuanLySinhVienDB\\Gui\\Form1.cs [Design]",
+              "RelativeToolTip": "Gui\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:10:28.444Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 605,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 464,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
